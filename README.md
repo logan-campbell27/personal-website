@@ -2,7 +2,7 @@
 ### CST-120: Intro to Web Development
 #### Introduction
 This is an ongoing, semester long project in the Intro to Web Development class offered by Grand Canyon University. In this project I planned and am currently developing a personal website with multiple pages that is meant to support a variety of web development concepts and various styles and functions
-![wirefram design](https://github.com/logan-campbell27/personal-website/tree/main/planning-files/wireframe.png)
+![wirefram design](https://github.com/logan-campbell27/personal-website/tree/main/planning-files/wireframe.jpg)
 #### Features
 * All Pages
   * Functioning nav bar and running header
