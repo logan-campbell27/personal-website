@@ -2,7 +2,7 @@
 ### CST-120: Intro to Web Development
 #### Introduction
 This is an ongoing, semester long project in the Intro to Web Development class offered by Grand Canyon University. In this project I planned and am currently developing a personal website with multiple pages that is meant to support a variety of web development concepts and various styles and functions
-![this is an image](https://drive.google.com/file/d/1IWcyv-u0BYBVgy9796x9g9bzR9Z6iV3y/view?usp=sharing)
+![this is an image]()
 #### Features
 * All Pages
   * Functioning nav bar and running header
