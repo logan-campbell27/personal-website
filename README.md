@@ -4,15 +4,15 @@
 This is an ongoing, semester long project in the Intro to Web Development class offered by Grand Canyon University. In this project I am currently developing a personal website with multiple pages that is meant to support a variety of web development concepts and various styles and functions
 #### Features
 * All Pages
- * Functioning nav bar and running header
- * Text, image, and page styles supported by CSS
- * CSS animations
- * Various icon graphics and styles using fontawesome
+  * Functioning nav bar and running header
+  * Text, image, and page styles supported by CSS
+  * CSS animations
+  * Various icon graphics and styles using fontawesome
 * Home Page
- * Eventual development of carousel photo gallery
+  * Eventual development of carousel photo gallery
 * Contact Page
- * Form to send personal email to me 
- * Links and contact for main professional sources(email, phone number, LinkedIn)
+  * Form to send personal email to me 
+  * Links and contact for main professional sources(email, phone number, LinkedIn)
 * About Me Page
 #### Coding Languages
 * HTML - Structural development of pages
