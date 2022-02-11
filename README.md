@@ -1,2 +1,3 @@
-# personal-website
-Personal website project for web-development class
+# Personal Website
+### CST-120: Intro to Web Development
+
