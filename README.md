@@ -28,17 +28,12 @@ This is an ongoing, semester long project in the Intro to Web Development class 
 * jQuery - Will be used to increase functionaly across pages
 * Draw.IO -  Used to develop sitemap and wireframe for planning
 
-#### Code Images
-External CSS file code - 
-Header, toolbar, and some home page code implementation - 
-Inline dropdown function CSS code -
-Example of a list element using the dropdown function - 
+#### Code Images 
 
-
+|Table of Code images| 
+|:---:|
 |External CSS file code 
-![CSS file code](https://github.com/logan-campbell27/personal-website/blob/main/planning-files/css.jpg)|
-|Header, toolbar, and some home page code implementation  |
-| Inline dropdown function CSS code |
-| Example of a list element using the dropdown function  |
+![CSS file code](https://github.com/logan-campbell27/personal-website/blob/main/planning-files/css.jpg)||Header, toolbar, and some home page code implementation ![Implementation](https://github.com/logan-campbell27/personal-website/blob/main/planning-files/homepage.jpg)|
+| Inline dropdown function CSS code ![Dropdown Code](https://github.com/logan-campbell27/personal-website/blob/main/planning-files/dropdown.jpg) || Example of a list element using the dropdown function ![Dropdown Example](https://github.com/logan-campbell27/personal-website/blob/main/planning-files/dropdownExample.jpg)  |
 
 
