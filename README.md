@@ -33,10 +33,10 @@ This is an ongoing, semester long project in the Intro to Web Development class 
 |Table heaer|table header|
 |:---:||:---:|
 |External CSS file code 
-![CSS file code](https://github.com/logan-campbell27/personal-website/blob/main/planning-files/css.jpg)||Header, toolbar, and some home page code implementation 
+![CSS file code](https://github.com/logan-campbell27/personal-website/blob/main/planning-files/css.jpg)|Header, toolbar, and some home page code implementation 
 ![Implementation](https://github.com/logan-campbell27/personal-website/blob/main/planning-files/homepage.jpg)|
 | Inline dropdown function CSS code
-![Dropdown Code](https://github.com/logan-campbell27/personal-website/blob/main/planning-files/dropdown.jpg) || Example of a list element using the dropdown function 
+![Dropdown Code](https://github.com/logan-campbell27/personal-website/blob/main/planning-files/dropdown.jpg) | Example of a list element using the dropdown function 
 ![Dropdown Example](https://github.com/logan-campbell27/personal-website/blob/main/planning-files/dropdownExample.jpg)  |
 
 
