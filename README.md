@@ -34,7 +34,7 @@ Header, toolbar, and some home page code implementation -
 Inline dropdown function CSS code -
 Example of a list element using the dropdown function - 
 
-|Table of Code images|
+|Table of Code images| |
 | ------------- | ------------- |
 |External CSS file code | 1|
 |Header, toolbar, and some home page code implementation  | 2  |
