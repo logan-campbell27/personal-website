@@ -41,4 +41,16 @@ This is an ongoing, semester long project in the Intro to Web Development class 
     </tr>
 </table>
 
+#### Page Images
+<table>
+ <tr>
+     <td align = "center"><b>Home Page Header</b></br><img src = "https://github.com/logan-campbell27/personal-website/blob/main/planning-files/homePageHeader.jpg"></td>
+     <td align = "center"><b>Top Five's Page Header</b></br><img src = "https://github.com/logan-campbell27/personal-website/blob/main/planning-files/topFiveHeader.jpg"></td>
+    </tr>
+ <tr>
+     <td align = "center"><b>Home Page Body</b></br><img src = "https://github.com/logan-campbell27/personal-website/blob/main/planning-files/homePageBody.jpg"></td>
+     <td align = "center"><b>Top Five's Page Body</b></br><img src = "https://github.com/logan-campbell27/personal-website/blob/main/planning-files/topFiveBody.jpg"></td>
+</tr>
+</table>
+
 
