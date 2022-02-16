@@ -33,13 +33,11 @@ External CSS file code -
 Header, toolbar, and some home page code implementation - 
 Inline dropdown function CSS code -
 Example of a list element using the dropdown function - 
-| Description  | Image ID|
+
 | ------------- | ------------- |
 |External CSS file code | 1|
 |Header, toolbar, and some home page code implementation  | 2  |
 | Inline dropdown function CSS code | 3 |
 | Example of a list element using the dropdown function  | 4 |
 
-| image | image |
-| image | image |
 
