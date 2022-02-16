@@ -36,7 +36,8 @@ Example of a list element using the dropdown function -
 
 |Table of Code images| 
 |:---:|
-|External CSS file code |
+|External CSS file code 
+![CSS file code](https://github.com/logan-campbell27/personal-website/blob/main/planning-files/css.jpg)|
 |Header, toolbar, and some home page code implementation  |
 | Inline dropdown function CSS code |
 | Example of a list element using the dropdown function  |
