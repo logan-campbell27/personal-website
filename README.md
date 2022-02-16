@@ -29,4 +29,8 @@ This is an ongoing, semester long project in the Intro to Web Development class 
 * Draw.IO -  Used to develop sitemap and wireframe for planning
 
 #### Code Images
+External CSS file code - 
+Header, toolbar, and some home page code implementation - 
+Inline dropdown function CSS code -
+Example of a list element using the dropdown function - 
 
