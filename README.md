@@ -39,6 +39,7 @@ Example of a list element using the dropdown function -
 |Header, toolbar, and some home page code implementation  | 2  |
 | Inline dropdown function CSS code | 3 |
 | Example of a list element using the dropdown function  | 4 |
+
 | image | image |
 | image | image |
 
