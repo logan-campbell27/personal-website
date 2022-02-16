@@ -30,7 +30,7 @@ This is an ongoing, semester long project in the Intro to Web Development class 
 
 #### Code Images 
 
-|||
+|Table heaer|table header|
 |:---:||:---:|
 |External CSS file code 
 ![CSS file code](https://github.com/logan-campbell27/personal-website/blob/main/planning-files/css.jpg)||Header, toolbar, and some home page code implementation 
