@@ -33,7 +33,7 @@ This is an ongoing, semester long project in the Intro to Web Development class 
 <table>
     <tr>
         <td align = "center"><b>Inline CSS file</b></br></td>
-        <td align = "center"><b>Implementation of Header and Toolbar</b></br>img src = "https://github.com/logan-campbell27/personal-website/blob/main/planning-files/homepage.jpg"</td>
+        <td align = "center"><b>Implementation of Header and Toolbar</b></br><img src = "https://github.com/logan-campbell27/personal-website/blob/main/planning-files/homepage.jpg"></td>
     </tr>
     <tr>
         <td align = "center"><b>CSS Dropdown Function</b></br></td>
