@@ -27,3 +27,6 @@ This is an ongoing, semester long project in the Intro to Web Development class 
 * Bootstrap - Will be used to support more styles and increase cosmetic functionality of website
 * jQuery - Will be used to increase functionaly across pages
 * Draw.IO -  Used to develop sitemap and wireframe for planning
+
+#### Code Images
+
