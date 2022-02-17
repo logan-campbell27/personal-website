@@ -28,16 +28,16 @@ This is an ongoing, semester long project in the Intro to Web Development class 
 * jQuery - Will be used to increase functionaly across pages
 * Draw.IO -  Used to develop sitemap and wireframe for planning
 
-#### Code Images 
+#### Code Snippets 
 
 <table>
     <tr>
-        <td align = "center"><b>Inline CSS file</b></br><img src = "https://github.com/logan-campbell27/personal-website/blob/main/planning-files/css.jpg"></td>
+        <td align = "center"><b>Inline CSS Header and Toolbar Classes</b></br><img src = "https://github.com/logan-campbell27/personal-website/blob/main/planning-files/css.jpg"></td>
         <td align = "center"><b>Implementation of Header and Toolbar</b></br><img src = "https://github.com/logan-campbell27/personal-website/blob/main/planning-files/homepage.jpg"></td>
     </tr>
     <tr>
-        <td align = "center"><b>CSS Dropdown Function</b></br><img src = "https://github.com/logan-campbell27/personal-website/blob/main/planning-files/dropdown.jpg"></td>
-        <td align = "center"><b>Example of Dropdown Code With a List Element</b></br><img src = "https://github.com/logan-campbell27/personal-website/blob/main/planning-files/dropdownExample.jpg"></td>
+        <td align = "center"><b>Internal CSS Dropdown Function</b></br><img src = "https://github.com/logan-campbell27/personal-website/blob/main/planning-files/dropdown.jpg"></td>
+        <td align = "center"><b>Example of Dropdown Function Implementation With a List Element</b></br><img src = "https://github.com/logan-campbell27/personal-website/blob/main/planning-files/dropdownExample.jpg"></td>
     </tr>
 </table>
 
